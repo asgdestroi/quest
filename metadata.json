@@ -1,0 +1,5 @@
+{
+  "name": "Quiz de Artes - Cidade Cinza",
+  "description": "Uma aplicação para alunos responderem a um questionário sobre o documentário 'Cidade Cinza' e para o professor visualizar as notas.",
+  "requestFramePermissions": []
+}
